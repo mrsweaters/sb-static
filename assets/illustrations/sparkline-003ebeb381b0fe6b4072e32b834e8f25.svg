@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="251px" height="121px" viewBox="0 0 251 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.1 (9971) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dashboard-Populated" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Dashboard-Empty" sketch:type="MSArtboardGroup" transform="translate(-762.000000, -242.000000)" fill="#D8DADD">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(762.000000, 242.000000)">
+                <circle id="Oval-34" sketch:type="MSShapeGroup" cx="248" cy="3" r="3"></circle>
+                <circle id="Oval-34" sketch:type="MSShapeGroup" cx="207" cy="42" r="3"></circle>
+                <circle id="Oval-34" sketch:type="MSShapeGroup" cx="166" cy="42" r="3"></circle>
+                <circle id="Oval-34" sketch:type="MSShapeGroup" cx="126" cy="85" r="3"></circle>
+                <circle id="Oval-34" sketch:type="MSShapeGroup" cx="85" cy="90" r="3"></circle>
+                <circle id="Oval-34" sketch:type="MSShapeGroup" cx="44" cy="118" r="3"></circle>
+                <circle id="Oval-34" sketch:type="MSShapeGroup" cx="3" cy="54" r="3"></circle>
+                <path d="M43.2755865,119.229694 L43.8432333,120.123709 L44.7032754,119.505798 L85.3855671,90.2769685 L125.585821,86.3112473 L126.21379,86.0004777 L166.896082,42.6215715 L166.150154,42.9373637 L206.832445,43.6092387 L207.541955,43.3303154 L248.224247,4.22484661 L246.838253,2.78296589 L206.155961,41.8884346 L206.865471,41.6095113 L166.18318,40.9376363 L165.437252,41.2534285 L124.75496,84.6323348 L125.382929,84.3215652 L84.7006378,88.4700027 L43.5363079,117.881549 L44.9639968,118.157653 L4.28170513,54.0850735 L2.59329487,55.157114 L43.2755865,119.229694 Z" id="Path-257" fill-opacity="0.3" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
